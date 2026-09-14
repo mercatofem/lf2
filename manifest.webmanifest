@@ -1,0 +1,16 @@
+{
+  "name": "LF2 Mercato",
+  "short_name": "LF2 Mercato",
+  "description": "Altas, bajas y renovaciones de la Liga Femenina 2.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f4f7",
+  "theme_color": "#082560",
+  "icons": [
+    { "src": "./img/lf2-icono.png", "sizes": "1500x1500", "type": "image/png" },
+    { "src": "./img/lf2-icono.png", "sizes": "1500x1500", "type": "image/png", "purpose": "maskable" }
+  ]
+}

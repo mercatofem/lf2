@@ -1,0 +1,557 @@
+
+<!DOCTYPE HTML>
+<html lang="es">
+<head id="ctl00_Cabecera_Pagina">
+
+<title>
+	Federación Andaluza de Baloncesto - Error cargando página
+</title><meta id="ctl00_descripcion_pagina" name="description" content="Federación Andaluza de Baloncesto, error en la carga de la página" /><meta id="ctl00_palabras_clave_pagina" name="keywords" content="error, pagina, federacion, andaluza, baloncesto" />
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,minimum-scale=1.0,initial-scale=1.0,maximum-scale=1.0,user-scalable=no,viewport-fit=cover">
+<meta name="format-detection" content="telephone=no" />
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-tap-highlight" content="no">
+<meta http-equiv="Content-Language" content="es">
+
+<meta name="author" content="Indalweb Internet S.L." />
+
+
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="application-name" content="Federación Andaluza de Baloncesto">
+<link rel="icon" sizes="192x192" href="/imagenes/chrome-icono-web-192x192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#1D1D1D" />
+<meta name="apple-mobile-web-app-title" content="Federación Andaluza de Baloncesto" />
+<link rel="apple-touch-icon" href="/imagenes/apple-icono-web.png">
+<meta name="msapplication-TileImage" content="/imagenes/ms-icono-144x144.png">
+<meta name="msapplication-TileColor" content="#1D1D1D" />
+<meta name="theme-color" content=#1D1D1D />
+<meta name="msapplication-navbutton-color" content="#1D1D1D" />
+
+
+<meta property="og:locale" content="es_ES" />
+<meta property="og:title" content="Federación Andaluza de Baloncesto" />
+<meta property="og:description" content="Web de la Federación Andaluza de Baloncesto donde encontrar todas las noticias, novedades y eventos sobre Baloncesto en Andalucía." />
+<meta property="og:url" content="https://www.andaluzabaloncesto.org/es/errores?codigo=404" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Federación Andaluza de Baloncesto" />
+<meta property="og:image" content="/imagenes/logo-andaluza-baloncesto.png" />
+<meta property="og:image:secure_url" content="/imagenes/logo-andaluza-baloncesto.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="800" />
+<meta property="og:image:alt" content="Federación Andaluza de Baloncesto" />
+
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Federación Andaluza de Baloncesto" />
+<meta name="twitter:description" content="Web de la Federación Andaluza de Baloncesto donde encontrar todas las noticias, novedades y eventos sobre Baloncesto en Andalucía." />
+<meta name="twitter:image" content="/imagenes/logo-andaluza-baloncesto.png" />
+
+<meta name="DC.title" content="Federación Andaluza de Baloncesto" />
+<meta name="DC.description" content="Web de la Federación Andaluza de Baloncesto donde encontrar todas las noticias, novedades y eventos sobre Baloncesto en Andalucía." />
+<meta name="DC.language" content="es" />
+<meta name="DC.subject" content="FAB, federación andaluza baloncesto, baloncesto, andalucia" />
+<meta name="DC.identifier" scheme="DCTERMS.URI" content="https://www.andaluzabaloncesto.org/es/errores?codigo=404" />
+<meta name="DC.creator" content="Indalweb Internet S.L." />
+<meta name="DC.contributor" content="Indalweb Internet S.L." />
+<meta name="DC.publisher" content="Indalweb Internet S.L." />
+
+<meta name="ICBM" content="37.8779771,-4.7961294" />
+<meta name="geo.position" content="37.8779771,-4.7961294" />
+<meta name="geo.placename" content="Córdoba" />
+<meta name="geo.region" content="ES-AN" />
+<link rel="shortcut icon" href="/favicon.png" />
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous" /><link rel="stylesheet" href="/App_Themes/min/01-estilo-andaluza.min.css?estilo=222" media="screen" /></head>
+<body>
+<form name="aspnetForm" method="post" action="./errores?codigo=404" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTMxMDcyNzc2D2QWAmYPZBYEAgEPZBYEAgIPFgIeB2NvbnRlbnQFQ0ZlZGVyYWNpw7NuIEFuZGFsdXphIGRlIEJhbG9uY2VzdG8sIGVycm9yIGVuIGxhIGNhcmdhIGRlIGxhIHDDoWdpbmFkAgMPFgIfAAUvZXJyb3IsIHBhZ2luYSwgZmVkZXJhY2lvbiwgYW5kYWx1emEsIGJhbG9uY2VzdG9kAgMPZBYKZg9kFgICAg8PFgIeB1Zpc2libGVnZBYCAgEPFgIeBFRleHQF5AI8c2NyaXB0IGFzeW5jIHNyYz0iLy9wYWdlYWQyLmdvb2dsZXN5bmRpY2F0aW9uLmNvbS9wYWdlYWQvanMvYWRzYnlnb29nbGUuanMiPjwvc2NyaXB0Pg0KPCEtLSBDQUJFQ0VSQSBQQUdJTkEgLS0+DQo8aW5zIGNsYXNzPSJhZHNieWdvb2dsZSINCiAgICAgc3R5bGU9ImRpc3BsYXk6aW5saW5lLWJsb2NrO3dpZHRoOjk3MHB4O2hlaWdodDo5MHB4Ig0KICAgICBkYXRhLWFkLWNsaWVudD0iY2EtcHViLTYwMjE4ODA0MDAwNTY2NDIiDQogICAgIGRhdGEtYWQtc2xvdD0iMTg5MzM5NzYxNyI+PC9pbnM+DQo8c2NyaXB0Pg0KKGFkc2J5Z29vZ2xlID0gd2luZG93LmFkc2J5Z29vZ2xlIHx8IFtdKS5wdXNoKHt9KTsNCjwvc2NyaXB0PmQCAg8WAh4LXyFJdGVtQ291bnQCAhYEZg9kFgJmDxUEBDE2NjQXY29tcGV0aWNpb25lcy1mYWItMjItMjMXQ09NUEVUSUNJT05FUy1GQUItMjItMjMXQ09NUEVUSUNJT05FUy1GQUItMjItMjNkAgEPZBYCZg8VBAQxODA3EmE4LXRlbXBvcmFkYS0yMi0yMxJBOCBURU1QT1JBREEtMjItMjMSQTggVEVNUE9SQURBLTIyLTIzZAIDD2QWAgIBDw8WAh8BZ2RkAgQPFgIfAwICFgRmD2QWAmYPFQQEMTY2NBdjb21wZXRpY2lvbmVzLWZhYi0yMi0yMxdDT01QRVRJQ0lPTkVTLUZBQi0yMi0yMxdDT01QRVRJQ0lPTkVTLUZBQi0yMi0yM2QCAQ9kFgJmDxUEBDE4MDcSYTgtdGVtcG9yYWRhLTIyLTIzEkE4IFRFTVBPUkFEQS0yMi0yMxJBOCBURU1QT1JBREEtMjItMjNkAgUPFgIfAwICFgRmD2QWAmYPFQQEMTY2NBdjb21wZXRpY2lvbmVzLWZhYi0yMi0yMxdDT01QRVRJQ0lPTkVTLUZBQi0yMi0yMxdDT01QRVRJQ0lPTkVTLUZBQi0yMi0yM2QCAQ9kFgJmDxUEBDE4MDcSYTgtdGVtcG9yYWRhLTIyLTIzEkE4IFRFTVBPUkFEQS0yMi0yMxJBOCBURU1QT1JBREEtMjItMjNkZNR5RVImlsbjJ+vc3qhmhreja5zTxng8F9APr57Cati1" />
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="672FADAA" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALUz1afYUkcq26HtbaEk1vE/4EVa2YMpzt4Tvmg4ibsupsYyfYBWsZH22dBLFFmtVVq35uQM2z0DdrXxabvh/y2" />
+<div class="franja_publicidad_cabecera">
+<div class="container-fluid">
+<div class="container">
+<div class="row">
+<div class="col-12">
+<div id="ctl00_PCabecera_PGoogle">
+<h3>Publicidad:</h3>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="37b8994454b8796539e87fbf-text/javascript"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:970px;height:90px" data-ad-client="ca-pub-6021880400056642" data-ad-slot="1893397617"></ins>
+<script type="37b8994454b8796539e87fbf-text/javascript">
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="body_andaluza">
+<header>
+ 
+<div class="espacioMenuMovil d-block d-lg-none"></div>
+<nav id="actionBarMovil" class="d-block d-lg-none">
+<div class="row align-items-center">
+<span id="btnMenuDesplegable" class="navbar-brand">
+<span></span>
+<span></span>
+<span></span>
+</span>
+<div class="col-2">
+&nbsp;
+</div>
+<div class="col-8" style="padding: 0; margin: 0;">
+<a class="logo-pequeno-movil" href="/es/" title="Federación Andaluza de Baloncesto"><img class="lazy" data-src="/cdn-cgi/mirage/16af8bdf232a05d9b56e609843b78d1e7a5b9a97f9214b446e80d712cc7a3834/1440/imagenes/logo-movil.png?v=2" alt="Federación Andaluza de Baloncesto" /></a>
+<a class="logo-grande-movil" href="/es/" title="Federación Andaluza de Baloncesto"><img class="lazy" data-src="/cdn-cgi/mirage/16af8bdf232a05d9b56e609843b78d1e7a5b9a97f9214b446e80d712cc7a3834/1440/imagenes/logo.png?v=2" alt="Federación Andaluza de Baloncesto" /></a>
+</div>
+<div class="col-2 text-right">
+&nbsp;
+</div>
+</div>
+</nav>
+<div class="container-fluid contenidoCabecera">
+<div class="container d-none d-lg-block">
+<div class="row">
+<div class="col-lg-3 col-xl-4 capa_logo">
+<h1><a href="/es/" title="Federación Andaluza de Baloncesto"><img src="/cdn-cgi/mirage/16af8bdf232a05d9b56e609843b78d1e7a5b9a97f9214b446e80d712cc7a3834/1440/imagenes/logo.png" alt="Federación Andaluza de Baloncesto - Inicio" /></a></h1>
+</div>
+<div class="col-lg-3 col-xl-3 buscador_cabecera mt-3">
+<input name="ctl00$TBBuscar" type="text" id="ctl00_TBBuscar" class="caja_buscador" placeholder="Buscar..." />
+</div>
+<div class="col-lg-3 col-xl-2 redes_cabecera mt-3">
+<a href="https://www.facebook.com/andaluzabaloncesto/" title="Síguenos en Facebook" target="_blank" rel="nofollow"><i class="fab fa-facebook-f"></i></a>
+<a href="https://twitter.com/FAB_Andaluza" title="Síguenos en Twitter" target="_blank" rel="nofollow"><i class="fab fa-twitter"></i></a>
+<a href="https://www.instagram.com/andaluzabaloncesto/" title="Síguenos en Instagram" target="_blank" rel="nofollow"><i class="fab fa-instagram"></i></a>
+<a href="https://www.youtube.com/user/andaluzabaloncesto" title="Síguenos en YouTube" target="_blank" rel="nofollow"><i class="fab fa-youtube"></i></a>
+<a href="/es/rss/rss.xml" title="Sigue nuestras noticias" target="_blank" rel="nofollow"><i class="fas fa-rss"></i></a>
+</div>
+<div class="col-lg-3 col-xl-3 mt-3">
+<strong class="elEmail"></strong><br />
+<strong class="elTelefono"></strong>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid contenedorMenuEscritorio padding0 d-none d-lg-block">
+<nav id="menuEscritorio" class="navbar">
+<div class="container container_menu">
+<div class="row">
+<div class="col-12 contenedorMenu">
+<ul class="listaMenu">
+<li class="opcion_submenu soloboton">
+ <a href="/es/" title="Federación Andaluza de Baloncesto - Inicio" style="font-weight: 300;">Inicio</a>
+</li>
+<li class="opcion_submenu">
+<span class="mn-opcion1 opcion">Federación <i class="fas fas fa-caret-down hidden-footer"></i></span>
+<ul class="listaSubmenu">
+<li><a href="/es/contacto" title="Federación Andaluza de Baloncesto - Contacto">Contacto</a></li>
+<li><a href="/es/organigrama" title="Federación Andaluza de Baloncesto - Organigrama">Organigrama</a></li>
+<li><a href="/es/historia" title="Federación Andaluza de Baloncesto - Historia">Historia</a></li>
+</ul>
+</li>
+<li class="opcion_submenu">
+<span class="mn-opcion1 opcion">Partidos <i class="fas fas fa-caret-down hidden-footer"></i></span>
+<ul class="listaSubmenu">
+<li>
+<a href="/es/competiciones-feb" title="COMPETICIONES FEB">COMPETICIONES FEB</a>
+</li>
+<li>
+<a href="/competicion-1664/competiciones-fab-22-23" title="COMPETICIONES-FAB-22-23">COMPETICIONES-FAB-22-23</a>
+</li>
+<li>
+<a href="/competicion-1807/a8-temporada-22-23" title="A8 TEMPORADA-22-23">A8 TEMPORADA-22-23</a>
+</li>
+<li>
+<a href="/es/resultados-clubes" title="RESULTADOS">RESULTADOS</a>
+</li>
+<li>
+<a href="/es/temporadas-anteriores" title="TEMPORADAS ANTERIORES">TEMPORADAS ANTERIORES</a>
+</li>
+</ul>
+</li>
+<li class="opcion_submenu">
+<span class="mn-opcion1 opcion">Selecciones <i class="fas fas fa-caret-down hidden-footer"></i></span>
+<ul class="listaSubmenu">
+<li><a href="/noticias-13/selecciones-provinciales" title="Federación Andaluza de Baloncesto - Selec. Provinciales">Selec. Provinciales</a></li>
+<li><a href="/noticias-14/selecciones-andaluzas" title="Federación Andaluza de Baloncesto - Selec. Andaluzas">Selec. Andaluzas</a></li>
+<li><a href="/noticias-15/selecciones-españolas" title="Federación Andaluza de Baloncesto - Selec. Españolas">Selec. Españolas</a></li>
+</ul>
+</li>
+<li class="opcion_submenu">
+<span class="mn-opcion1 opcion">Entrenadores <i class="fas fas fa-caret-down hidden-footer"></i></span>
+<ul class="listaSubmenu">
+<li><a href="/noticias-19/noticias-entrenadores" title="Federación Andaluza de Baloncesto - Noticias">Noticias</a></li>
+<li><a href="/noticias-20/cursos-entrenadores" title="Federación Andaluza de Baloncesto - Cursos">Cursos</a></li>
+<li><a href="/documentos-33/temarios" title="Federación Andaluza de Baloncesto - Temarios">Temarios</a></li>
+<li><a href="/noticias-21/formacion-entrenadores" title="Federación Andaluza de Baloncesto - Formación">Formación</a></li>
+<li><a href="https://formacionfab.milaulas.com/" target="_blank" rel="nofollow" title="Federación Andaluza de Baloncesto - Plataforma Formación">Plataforma Formación</a></li>
+<li><a href="http://www.clubdelentrenador.com/clubes/index.php?ins=4" target="_blank" rel="nofollow" title="Federación Andaluza de Baloncesto - Club del entrenador">Club del entrenador</a></li>
+<li><a href="/es/hazte-entrenador" title="Federación Andaluza de Baloncesto - Hazte entrenador">Hazte entrenador</a></li>
+</ul>
+</li>
+<li class="opcion_submenu">
+<span class="mn-opcion1 opcion">Árbitros <i class="fas fas fa-caret-down hidden-footer"></i></span>
+<ul class="listaSubmenu">
+<li><a href="/es/app-arbitros-fab" title="Federación Andaluza de Baloncesto - App Árbitros">App Árbitros</a></li>
+<li><a href="/noticias-16/noticias-arbitros" title="Federación Andaluza de Baloncesto - Noticias">Noticias</a></li>
+<li><a href="/noticias-17/cursos-arbitros" title="Federación Andaluza de Baloncesto - Cursos">Cursos</a></li>
+<li><a href="/noticias-18/formacion-continua-arbitros" title="Federación Andaluza de Baloncesto - Formación continua">Formación continua</a></li>
+<li><a href="https://formacionfab.milaulas.com/" target="_blank" rel="nofollow" title="Federación Andaluza de Baloncesto - Plataforma formación">Plataforma formación</a></li>
+<li><a href="http://tecnicos.clubdelarbitro.com/" target="_blank" rel="nofollow" title="Federación Andaluza de Baloncesto - Técnicos">Técnicos</a></li>
+<li><a href="https://www.clubdelarbitro.com/index.php?ins=3" target="_blank" rel="nofollow" title="Federación Andaluza de Baloncesto - Club del árbitro">Club del árbitro</a></li>
+<li><a href="/es/hazte-arbitro" title="Federación Andaluza de Baloncesto - Hazte árbitro">Hazte árbitro</a></li>
+</ul>
+</li>
+<li class="opcion_submenu">
+<span class="mn-opcion1 opcion">Actividades <i class="fas fas fa-caret-down hidden-footer"></i></span>
+<ul class="listaSubmenu">
+<li><a href="/noticias-26/actividades-noticias" title="Federación Andaluza de Baloncesto - Noticias">Noticias</a></li>
+ <li><a href="/noticias-28/actividades-1-masculina" title="Federación Andaluza de Baloncesto - 1ª Maculina">1ª Maculina</a></li>
+<li><a href="/noticias-29/actividades-1-femenina" title="Federación Andaluza de Baloncesto - 1ª Femenina">1ª Femenina</a></li>
+<li><a href="/noticias-27/actividades-campeonatos" title="Federación Andaluza de Baloncesto - Campeonatos">Campeonatos</a></li>
+<li><a href="/noticias-31/actividades-campus" title="Federación Andaluza de Baloncesto - Campus">Campus</a></li>
+<li><a href="/es/liga-led-educate-en-el-deporte" title="Liga LED">Liga LED</a></li>
+</ul>
+</li>
+<li class="opcion_submenu">
+<span class="mn-opcion1 opcion">Normativa <i class="fas fas fa-caret-down hidden-footer"></i></span>
+<ul class="listaSubmenu">
+<li><a href="/documentos-35/protocolo-covid" title="Federación Andaluza de Baloncesto - Protocolo COVID">Protocolo COVID</a></li>
+<li><a href="/documentos-5/reglamentos-fab" title="Federación Andaluza de Baloncesto - Reglamentos FAB">Reglamentos FAB</a></li>
+<li><a href="/documentos-3/bases-competicion" title="Federación Andaluza de Baloncesto - Bases de competición">Bases de competición</a></li>
+<li><a href="/documentos-8/reglas-juego" title="Federación Andaluza de Baloncesto - Reglas de juego">Reglas de juego</a></li>
+<li><a href="/documentos-9/seguro-deportivo" title="Federación Andaluza de Baloncesto - Seguro deportivo">Seguro deportivo</a></li>
+<li><a href="/documentos-25/codigo-etico" title="Federación Andaluza de Baloncesto - Código ético">Código ético</a></li>
+<li><a href="/documentos-10/normativa-documentos" title="Federación Andaluza de Baloncesto - Documentos">Documentos</a></li>
+<li><a href="/documentos-32/transparencia" title="Federación Andaluza de Baloncesto - Transparencia">Transparencia</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</header>
+<section style="margin-top: 0; padding-top: 0;">
+<div class="container contenedor_interior">
+<div class="row justify-content-center migasPan">
+<div class="col-12 tituloPagina">
+<h2>Errores</h2>
+</div>
+<nav data-aria-label="breadcrumb" class="col-12 text-right migasPagina">
+<ol class="breadcrumb">
+<li class="breadcrumb-item"><a href="/es/" title="Inicio">Inicio</a></li>
+<li class="breadcrumb-item active" data-aria-current="page">Errores</li>
+</ol>
+</nav>
+</div>
+<div class="row text-center">
+<aside class="col-12 mb-5 table-responsive">
+<br />
+<br />
+<br />
+<div id="ctl00_contenedor_informacion_P404">
+<img src="../imagenes/error-404.png" alt="Error 404" class="animated bounce infinite" /><br /><br />
+<h3>Página <strong>no encontrada</strong>.</h3>
+</div>
+<br />
+<br />
+<br />
+</aside>
+</div>
+</div>
+</section>
+<footer>
+<div class="container-fluid parte_superior_pie">
+<div class="container">
+<div class="row">
+<nav class="col-12 col-sm-6 col-md-3 col-lg-2">
+<li class="opcion_submenu">
+<span class="mn-opcion1 opcion">Delegaciones</span>
+<ul class="listaSubmenu">
+<li><a href="/almeria/" title="Federación Andaluza de Baloncesto - Delegación Almería">Almería</a></li>
+<li><a href="/cadiz/" title="Federación Andaluza de Baloncesto - Delegación Cádiz">Cádiz</a></li>
+<li><a href="/cordoba/" title="Federación Andaluza de Baloncesto - Delegación Córdoba">Córdoba</a></li>
+<li><a href="/granada/" title="Federación Andaluza de Baloncesto - Delegación Granada">Granada</a></li>
+<li><a href="/huelva/" title="Federación Andaluza de Baloncesto - Delegación Huelva">Huelva</a></li>
+<li><a href="/jaen/" title="Federación Andaluza de Baloncesto - Delegación Jaén">Jaén</a></li>
+<li><a href="/malaga/" title="Federación Andaluza de Baloncesto - Delegación Málaga">Málaga</a></li>
+<li><a href="/sevilla/" title="Federación Andaluza de Baloncesto - Delegación Sevilla">Sevilla</a></li>
+</ul>
+</li>
+</nav>
+<nav class="col-12 col-sm-6 col-md-3 col-lg-2">
+<li class="opcion_submenu" class="text-xs-center">
+<span class="mn-opcion1 opcion">Partidos</span>
+<ul class="listaSubmenu">
+<ul class="listaSubmenu">
+<li>
+<a href="/es/competiciones-feb" title="COMPETICIONES FEB">COMPETICIONES FEB</a>
+</li>
+<li>
+<a href="/competicion-1664/competiciones-fab-22-23" title="COMPETICIONES-FAB-22-23">COMPETICIONES-FAB-22-23</a>
+</li>
+<li>
+<a href="/competicion-1807/a8-temporada-22-23" title="A8 TEMPORADA-22-23">A8 TEMPORADA-22-23</a>
+</li>
+<li>
+<a href="/es/resultados-clubes" title="RESULTADOS">RESULTADOS</a>
+</li>
+<li>
+<a href="/es/temporadas-anteriores" title="TEMPORADAS ANTERIORES">TEMPORADAS ANTERIORES</a>
+</li>
+</ul>
+</ul>
+</li>
+</nav>
+<nav class="col-12 col-sm-6 col-md-3 col-lg-2">
+<li class="opcion_submenu">
+<span class="mn-opcion1 opcion">Selecciones</span>
+<ul class="listaSubmenu">
+<li><a href="/noticias-13/selecciones-provinciales" title="Federación Andaluza de Baloncesto - Selec. Provinciales">Selec. Provinciales</a></li>
+<li><a href="/noticias-14/selecciones-andaluzas" title="Federación Andaluza de Baloncesto - Selec. Andaluzas">Selec. Andaluzas</a></li>
+<li><a href="/noticias-15/selecciones-españolas" title="Federación Andaluza de Baloncesto - Selec. Españolas">Selec. Españolas</a></li>
+</ul>
+</li>
+</nav>
+<nav class="col-12 col-sm-6 col-md-3 col-lg-2">
+<li class="opcion_submenu">
+<span class="mn-opcion1 opcion">Entrenadores</span>
+<ul class="listaSubmenu">
+<li><a href="/noticias-19/noticias-entrenadores" title="Federación Andaluza de Baloncesto - Noticias">Noticias</a></li>
+<li><a href="/noticias-20/cursos-entrenadores" title="Federación Andaluza de Baloncesto - Cursos">Cursos</a></li>
+<li><a href="/documentos-33/temarios" title="Federación Andaluza de Baloncesto - Temarios">Temarios</a></li>
+<li><a href="/noticias-21/formacion-entrenadores" title="Federación Andaluza de Baloncesto - Formación">Formación</a></li>
+<li><a href="https://formacionfab.milaulas.com/" target="_blank" rel="nofollow" title="Federación Andaluza de Baloncesto - Plataforma Formación">Plataforma Formación</a></li>
+<li><a href="http://www.clubdelentrenador.com/clubes/index.php?ins=4" target="_blank" rel="nofollow" title="Federación Andaluza de Baloncesto - Club del entrenador">Club del entrenador</a></li>
+<li><a href="/es/hazte-entrenador" title="Federación Andaluza de Baloncesto - Hazte entrenador">Hazte entrenador</a></li>
+</ul>
+</li>
+</nav>
+<nav class="col-12 col-sm-6 col-md-3 col-lg-2">
+<li class="opcion_submenu">
+<span class="mn-opcion1 opcion">Árbitros</span>
+<ul class="listaSubmenu">
+<li><a href="/es/app-arbitros-fab" title="Federación Andaluza de Baloncesto - App Árbitros">App Árbitros</a></li>
+<li><a href="/noticias-16/noticias-arbitros" title="Federación Andaluza de Baloncesto - Noticias">Noticias</a></li>
+<li><a href="/noticias-17/cursos-arbitros" title="Federación Andaluza de Baloncesto - Cursos">Cursos</a></li>
+<li><a href="/noticias-18/formacion-continua-arbitros" title="Federación Andaluza de Baloncesto - Formación continua">Formación continua</a></li>
+<li><a href="https://formacionfab.milaulas.com/" target="_blank" rel="nofollow" title="Federación Andaluza de Baloncesto - Plataforma formación">Plataforma formación</a></li>
+<li><a href="http://tecnicos.clubdelarbitro.com/" target="_blank" rel="nofollow" title="Federación Andaluza de Baloncesto - Técnicos">Técnicos</a></li>
+ <li><a href="https://www.clubdelarbitro.com/index.php?ins=3" target="_blank" rel="nofollow" title="Federación Andaluza de Baloncesto - Club del árbitro">Club del árbitro</a></li>
+<li><a href="/ess/hazte-arbitro" title="Federación Andaluza de Baloncesto - Hazte árbitro">Hazte árbitro</a></li>
+</ul>
+</li>
+</nav>
+<nav class="col-12 col-sm-6 col-md-3 col-lg-2">
+<li class="opcion_submenu">
+<span class="mn-opcion1 opcion">Normativa</span>
+<ul class="listaSubmenu">
+<li><a href="/documentos-35/protocolo-covid" title="Federación Andaluza de Baloncesto - Protocolo COVID">Protocolo COVID</a></li>
+<li><a href="/documentos-5/reglamentos-fab" title="Federación Andaluza de Baloncesto - Reglamentos FAB">Reglamentos FAB</a></li>
+<li><a href="/documentos-3/bases-competicion" title="Federación Andaluza de Baloncesto - Bases de competición">Bases de competición</a></li>
+<li><a href="/documentos-8/reglas-juego" title="Federación Andaluza de Baloncesto - Reglas de juego">Reglas de juego</a></li>
+<li><a href="/documentos-9/seguro-deportivo" title="Federación Andaluza de Baloncesto - Seguro deportivo">Seguro deportivo</a></li>
+<li><a href="/documentos-25/codigo-etico" title="Federación Andaluza de Baloncesto - Código ético">Código ético</a></li>
+<li><a href="/documentos-10/normativa-documentos" title="Federación Andaluza de Baloncesto - Documentos">Documentos</a></li>
+<li><a href="/documentos-32/transparencia" title="Federación Andaluza de Baloncesto - Transparencia">Transparencia</a></li>
+</ul>
+</li>
+</nav>
+</div>
+</div>
+</div>
+<div class="container-fluid parte_inferior_pie">
+<div class="container">
+<div class="row">
+<nav class="col-sm-12 col-lg-4 contenedorInformacionFooter">
+<img data-src="/cdn-cgi/mirage/16af8bdf232a05d9b56e609843b78d1e7a5b9a97f9214b446e80d712cc7a3834/1440/imagenes/logo.png" class="logo_pie lazy">
+<br />
+<ul class="text-xs-center" itemscope itemtype="http://data-vocabulary.org/Organization">
+<li itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address">Avda, de Guerrita Nº31</li>
+<li><span itemprop="region">14005 Córdoba</span></li>
+<li><strong itemprop="phone" class="elTelefono"></strong></li>
+<li><span itemprop="email" class="elEmail"></span></li>
+<li class="redes_pie">
+<a href="https://www.facebook.com/andaluzabaloncesto/" title="Síguenos en Facebook" target="_blank" rel="nofollow"><i class="fab fa-facebook-f"></i></a>
+<a href="https://twitter.com/FAB_Andaluza" title="Síguenos en Twitter" target="_blank" rel="nofollow"><i class="fab fa-twitter"></i></a>
+<a href="https://www.instagram.com/andaluzabaloncesto/" title="Síguenos en Instagram" target="_blank" rel="nofollow"><i class="fab fa-instagram"></i></a>
+<a href="https://www.youtube.com/user/andaluzabaloncesto" title="Síguenos en YouTube" target="_blank" rel="nofollow"><i class="fab fa-youtube"></i></a>
+<a href="/es/rss/rss.xml" title="Sígue nuestras noticias" target="_blank" rel="nofollow"><i class="fas fa-rss"></i></a>
+</li>
+</ul>
+</nav>
+<nav class="col-sm-12 col-lg-8 contenedorEnlacesFooter">
+<ul>
+<li><a class="mn-galerias" href="/es/galerias" title="Federación Andaluza de Baloncesto - Galerías">Galerías <i class="far fa-circle d-block d-md-none hidden-footer"></i></a></li>
+<li class="d-none d-sm-inline-block">|</li>
+<li><a class="mn-contactar" href="/es/contacto" title="Federación Andaluza de Baloncesto - Contacto">Contacto <i class="fas fa-phone d-block d-md-none hidden-footer"></i></a></li>
+</ul>
+<ul>
+<li class="mn-aviso-legal"><a href="/es/aviso-legal" title="Federación Andaluza de Baloncesto - Aviso Legal">Aviso Legal</a></li>
+<li class="d-none d-sm-inline-block">|</li>
+<li class="mn-datos-identificativos"><a href="/es/datos-identificativos" title="Federación Andaluza de Baloncesto - Datos Identificativos">Datos Identificativos</a></li>
+<li class="d-none d-sm-inline-block">|</li>
+<li class="mn-politica-cookies"><a href="/es/politica-cookies" title="Federación Andaluza de Baloncesto - Política de Cookies">Política de Cookies</a></li>
+<li class="d-none d-sm-inline-block">|</li>
+<li class="mn-gestion-politica-cookies"><a class="gestion_cookies" onclick="if (!window.__cfRLUnblockHandlers) return false; return klaro.show();" title="Gestión de las Cookies" data-cf-modified-37b8994454b8796539e87fbf-="">Gestión de las Cookies</a></li>
+<li class="d-none d-sm-inline-block">|</li>
+<li class="mn-indalweb"><a href="https://www.gesdeportiva.es/" target="_blank" rel="noopener" title="Gesdeportiva - Sistema de gestión integral para federaciones y ligas de baloncesto.">Desarrollo Web Gesdeportiva</a></li>
+</ul>
+<div class="enlaces_app_pie">
+<strong>APP AFICIÓN FEDERACIÓN ANDALUZA BALONCESTO</strong>
+<br />
+<a href="https://play.google.com/store/apps/details?id=com.indalweb.aficionFAB" title="App Afición en Google Play" target="_blank" rel="nofollow"><img class="lazy" data-src="/cdn-cgi/mirage/16af8bdf232a05d9b56e609843b78d1e7a5b9a97f9214b446e80d712cc7a3834/1440/imagenes/google-play.png" alt="App Afición en Google Play" /></a>&nbsp;<a href="https://apps.apple.com/es/app/afici%C3%B3n-fab/id1447105753?l=es&ls=1" target="_blank" rel="nofollow" title="App Afición en App Store"><img class="lazy" data-src="/cdn-cgi/mirage/16af8bdf232a05d9b56e609843b78d1e7a5b9a97f9214b446e80d712cc7a3834/1440/imagenes/app-store.png" alt="App Afición en App Store" /></a>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</footer>
+
+<div class="fondoOscuro"></div>
+<div id="menuMovil">
+<div class="cabeceraMenuMovil"></div>
+<nav class="contenidoMenuMovil">
+<ul class="listaMenu">
+<li><a class="mn-inicio" href="/es/" title="Federación Andaluza de Baloncesto - Inicio">Inicio <i class="fas fa-home d-block d-md-none hidden-footer"></i></a></li>
+<li class="opcion_submenu">
+<span class="mn-opcion1 opcion">Federación <i class="fas fas fa-caret-down hidden-footer"></i></span>
+<ul class="listaSubmenu">
+<li><a href="/es/contacto" title="Federación Andaluza de Baloncesto - Contacto">Contacto</a></li>
+<li><a href="/es/organigrama" title="Federación Andaluza de Baloncesto - Organigrama">Organigrama</a></li>
+<li><a href="/es/historia" title="Federación Andaluza de Baloncesto - Historia">Historia</a></li>
+</ul>
+</li>
+<li class="opcion_submenu">
+<span class="mn-opcion1 opcion">Partidos <i class="fas fas fa-caret-down hidden-footer"></i></span>
+<ul class="listaSubmenu">
+<ul class="listaSubmenu">
+<li>
+<a href="/es/competiciones-feb" title="COMPETICIONES FEB">COMPETICIONES FEB</a>
+</li>
+<li>
+<a href="/competicion-1664/competiciones-fab-22-23" title="COMPETICIONES-FAB-22-23">COMPETICIONES-FAB-22-23</a>
+</li>
+<li>
+<a href="/competicion-1807/a8-temporada-22-23" title="A8 TEMPORADA-22-23">A8 TEMPORADA-22-23</a>
+</li>
+<li>
+<a href="/es/resultados-clubes" title="RESULTADOS">RESULTADOS</a>
+</li>
+<li>
+<a href="/es/temporadas-anteriores" title="TEMPORADAS ANTERIORES">TEMPORADAS ANTERIORES</a>
+</li>
+</ul>
+</ul>
+</li>
+<li class="opcion_submenu">
+<span class="mn-opcion1 opcion">Selecciones <i class="fas fas fa-caret-down hidden-footer"></i></span>
+<ul class="listaSubmenu">
+<li><a href="/noticias-13/selecciones-provinciales" title="Federación Andaluza de Baloncesto - Selec. Provinciales">Selec. Provinciales</a></li>
+<li><a href="/noticias-14/selecciones-andaluzas" title="Federación Andaluza de Baloncesto - Selec. Andaluzas">Selec. Andaluzas</a></li>
+<li><a href="/noticias-15/selecciones-españolas" title="Federación Andaluza de Baloncesto - Selec. Españolas">Selec. Españolas</a></li>
+</ul>
+</li>
+<li class="opcion_submenu">
+<span class="mn-opcion1 opcion">Entrenadores <i class="fas fas fa-caret-down hidden-footer"></i></span>
+<ul class="listaSubmenu">
+<li><a href="/noticias-19/noticias-entrenadores" title="Federación Andaluza de Baloncesto - Noticias">Noticias</a></li>
+<li><a href="/noticias-20/cursos-entrenadores" title="Federación Andaluza de Baloncesto - Cursos">Cursos</a></li>
+<li><a href="/documentos-33/temarios" title="Federación Andaluza de Baloncesto - Temarios">Temarios</a></li>
+<li><a href="/noticias-21/formacion-entrenadores" title="Federación Andaluza de Baloncesto - Formación">Formación</a></li>
+<li><a href="https://formacionfab.milaulas.com/" target="_blank" rel="nofollow" title="Federación Andaluza de Baloncesto - Plataforma Formación">Plataforma Formación</a></li>
+<li><a href="http://www.clubdelentrenador.com/clubes/index.php?ins=4" target="_blank" rel="nofollow" title="Federación Andaluza de Baloncesto - Club del entrenador">Club del entrenador</a></li>
+<li><a href="/es/hazte-entrenador" title="Federación Andaluza de Baloncesto - Hazte entrenador">Hazte entrenador</a></li>
+</ul>
+</li>
+<li class="opcion_submenu">
+<span class="mn-opcion1 opcion">Árbitros <i class="fas fas fa-caret-down hidden-footer"></i></span>
+<ul class="listaSubmenu">
+<li><a href="/es/app-arbitros-fab" title="Federación Andaluza de Baloncesto - App Árbitros">App Árbitros</a></li>
+<li><a href="/noticias-16/noticias-arbitros" title="Federación Andaluza de Baloncesto - Noticias">Noticias</a></li>
+<li><a href="/noticias-17/cursos-arbitros" title="Federación Andaluza de Baloncesto - Cursos">Cursos</a></li>
+<li><a href="/noticias-18/formacion-continua-arbitros" title="Federación Andaluza de Baloncesto - Formación continua">Formación continua</a></li>
+<li><a href="https://formacionfab.milaulas.com/" target="_blank" rel="nofollow" title="Federación Andaluza de Baloncesto - Plataforma formación">Plataforma formación</a></li>
+<li><a href="http://tecnicos.clubdelarbitro.com/" target="_blank" rel="nofollow" title="Federación Andaluza de Baloncesto - Técnicos">Técnicos</a></li>
+<li><a href="https://www.clubdelarbitro.com/index.php?ins=3" target="_blank" rel="nofollow" title="Federación Andaluza de Baloncesto - Club del árbitro">Club del árbitro</a></li>
+<li><a href="/es/hazte-arbitro" title="Federación Andaluza de Baloncesto - Hazte árbitro">Hazte árbitro</a></li>
+</ul>
+</li>
+<li class="opcion_submenu">
+<span class="mn-opcion1 opcion">Actividades <i class="fas fas fa-caret-down hidden-footer"></i></span>
+<ul class="listaSubmenu">
+<li><a href="/noticias-26/actividades-noticias" title="Federación Andaluza de Baloncesto - Noticias">Noticias</a></li>
+<li><a href="/noticias-28/actividades-1-masculina" title="Federación Andaluza de Baloncesto - 1ª Maculina">1ª Maculina</a></li>
+<li><a href="/noticias-29/actividades-1-femenina" title="Federación Andaluza de Baloncesto - 1ª Femenina">1ª Femenina</a></li>
+<li><a href="/noticias-27/actividades-campeonatos" title="Federación Andaluza de Baloncesto - Campeonatos">Campeonatos</a></li>
+<li><a href="/noticias-31/actividades-campus" title="Federación Andaluza de Baloncesto - Campus">Campus</a></li>
+</ul>
+</li>
+<li class="opcion_submenu">
+<span class="mn-opcion1 opcion">Normativa <i class="fas fas fa-caret-down hidden-footer"></i></span>
+<ul class="listaSubmenu">
+<li><a href="/documentos-35/protocolo-covid" title="Federación Andaluza de Baloncesto - Protocolo COVID">Protocolo COVID</a></li>
+ <li><a href="/documentos-5/reglamentos-fab" title="Federación Andaluza de Baloncesto - Reglamentos FAB">Reglamentos FAB</a></li>
+<li><a href="/documentos-3/bases-competicion" title="Federación Andaluza de Baloncesto - Bases de competición">Bases de competición</a></li>
+<li><a href="/documentos-8/reglas-juego" title="Federación Andaluza de Baloncesto - Reglas de juego">Reglas de juego</a></li>
+<li><a href="/documentos-9/seguro-deportivo" title="Federación Andaluza de Baloncesto - Seguro deportivo">Seguro deportivo</a></li>
+<li><a href="/documentos-25/codigo-etico" title="Federación Andaluza de Baloncesto - Código ético">Código ético</a></li>
+<li><a href="/documentos-10/normativa-documentos" title="Federación Andaluza de Baloncesto - Documentos">Documentos</a></li>
+<li><a href="/documentos-32/transparencia" title="Federación Andaluza de Baloncesto - Transparencia">Transparencia</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</form>
+<noscript id="cargarCSS">
+            <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700"/>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.0/css/swiper.min.css"/>
+            
+            <style>
+                .fa {
+                    font-family: "Font Awesome 5 Brands";
+                }
+                .fa.fa-at{
+                    font-family: "Font Awesome 5 Free";
+                }
+            </style>
+        </noscript>
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous" type="37b8994454b8796539e87fbf-text/javascript"></script>
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous" type="37b8994454b8796539e87fbf-text/javascript"></script>
+<script defer src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous" type="37b8994454b8796539e87fbf-text/javascript"></script>
+
+<script src="/js/min/funciones.min.js?v=8" type="37b8994454b8796539e87fbf-text/javascript"></script>
+<script defer type="37b8994454b8796539e87fbf-text/javascript">
+            $(document).ready(function () {
+                carga_inicial_web();
+            });
+        </script>
+<script type="37b8994454b8796539e87fbf-text/javascript">
+        /*$(function (){
+            $(".mn-aviso-legal").addClass("active");
+        });*/
+    </script>
+
+<script async type="opt-in" data-type="text/javascript" data-name="google_analytics" data-src="https://www.googletagmanager.com/gtag/js?id=UA-23821002-10"></script>
+<script type="opt-in" data-type="text/javascript" data-name="google_analytics">
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'UA-23821002-10');
+        </script>
+
+<link href="/App_Themes/min/klaro-cookies-indalweb.min.css" rel="stylesheet" />
+<div class="contenedor_boton_cookies"></div>
+<script defer type="37b8994454b8796539e87fbf-application/javascript" src="/js/min/config.min.js?v=2"></script>
+<script defer type="37b8994454b8796539e87fbf-application/javascript" src="/js/min/gestion-cookies-indalweb.min.js?v=2"></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="37b8994454b8796539e87fbf-|49" defer=""></script></body>
+</html>
